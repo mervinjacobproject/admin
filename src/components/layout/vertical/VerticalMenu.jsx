@@ -13,7 +13,7 @@ import PerfectScrollbar from 'react-perfect-scrollbar'
 import { Menu, SubMenu, MenuItem, MenuSection } from '@menu/vertical-menu'
 import CustomChip from '@core/components/mui/Chip'
 
-import { GenerateVerticalMenu } from '@components/GenerateMenu'
+// import { GenerateVerticalMenu } from '@components/GenerateMenu'
 // Hook Imports
 import { useSettings } from '@core/hooks/useSettings'
 import useVerticalNav from '@menu/hooks/useVerticalNav'
